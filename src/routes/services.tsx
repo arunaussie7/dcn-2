@@ -38,6 +38,7 @@ import pepperImg from "@/assets/crop-pepper.jpg";
 import cardamomImg from "@/assets/crop-cardamom.jpg";
 import arecaImg from "@/assets/crop-areca.jpg";
 import tractorImg from "@/assets/tractor-field.jpg";
+import parallaxImg from "@/assets/parallax-fields.jpg";
 import { Section, Eyebrow } from "@/components/Section";
 import { PageHero } from "@/components/PageHero";
 import { SITE } from "@/lib/site";
